@@ -1,0 +1,17 @@
+# Compiled files
+out/
+bin/
+*.class
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# MySQL Connector (optional)
+.lib/
